@@ -1,0 +1,39 @@
+
+body {
+ background-color:rgb(160, 203, 237)
+}
+.name{
+  color:rgb(0, 0, 0);
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+}
+
+.card{
+  width: 21%;
+  height: 450px;
+  margin: 2%;
+
+}
+.card-img{
+  width: 100%;
+  height: 170px;
+}
+
+.btn{
+  width: 95px;
+  height: 30px;
+  margin: 5px;
+}
+.category{
+  font-weight: lighter;
+  font-size: larger;
+  text-align: center;
+}
+
+.price{
+  font-weight: bold;
+}
+.calories{
+  font-weight: bold;
+}
